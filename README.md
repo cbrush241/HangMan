@@ -1,4 +1,4 @@
-# HangMan
+# Data Cleaning Hangman
 A simple game of hangman. It's divided into three files: game.py, functions.py, and hangman_pics.py. The main gameplay loop and user interaction is in game.py. All functions are defined in functions.py, and each has a comment
 with an explanation of purpose. The basic text graphics used are in hangman_pics.py.
 
